@@ -14,7 +14,8 @@
 This repository contains the code for our research on air quality predictions using XGBoost, LSTM and Informer using meteorological and climate data. The goal is to compare model performance, model efficiency and feature importance analysis in predicting PM2.5 concentrations across multiple cities.
 
 ## :page_with_curl: Paper
-The associated paper is available on [IEEE Explore](https://ieeexplore.ieee.org/xpl/conhome/11264842/proceeding) 
+The associated paper is available on [IEEE Explore](https://ieeexplore.ieee.org/document/11265338)
+
 
 ## :file_folder: Repository Structure
 ```
