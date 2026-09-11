@@ -52,4 +52,4 @@ The results of all models' performance are as follows:
 - **Andersen Chandra** - Lead Researcher 
 - **[Laurentius Nicholas](https://github.com/Zeits27)** - Lead Researcher  
 - **Dr. Ir. Alexander Agung Santoso Gunawan, M.Si., M.Sc., IPM.** - Supervisor
-- **Rilo Chandra Pradana** - Supervisor
+- **Rilo Chandra Pradana, S.Si., M.Kom.** - Supervisor
